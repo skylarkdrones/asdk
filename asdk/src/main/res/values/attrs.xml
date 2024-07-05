@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DescSpinnerCell">
+        <attr name="asdk_summary" />
+        <attr name="asdk_desc" />
+        <attr name="asdk_entries" format="reference" />
+    </declare-styleable>
+
+    <attr name="asdk_summary" format="string|reference" />
+    <attr name="asdk_desc" format="string|reference" />
+</resources>
